@@ -16,3 +16,23 @@ Power BI, data modeling, and custom DAX measures.
 - Measure month-over-month growth using DAX calculations.
 - Present insights through an intuitive and professional dashboard.
 
+## Key Features
+### KPI Cards
+- Total Sales
+- Total Profit
+- Units Sold
+
+### Sales Analysis
+- Monthly Sales Trend Analysis
+- Segment-wise Sales Performance
+
+### Profit Analysis
+- Product-wise Profitability Analysis
+- Average Profit by Segment
+
+### Interactive Reporting
+- Dynamic visualizations
+- Business-focused KPI tracking
+- Professional dark-themed dashboard design
+
+## Dashboard Preview
