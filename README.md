@@ -66,13 +66,13 @@ Power BI, data modeling, and custom DAX measures.
 - Data Visualization
 
 ## Skills Demonstrated
-Data Modeling
-DAX Calculations
-KPI Development
-Financial Analysis
-Business Intelligence Reporting
-Dashboard Design
-Data Visualization Best Practices
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Financial Analysis
+- Business Intelligence Reporting
+- Dashboard Design
+- Data Visualization Best Practices
 
 ## Conclusion
 This Financial Analysis Dashboard demonstrates how Power BI can be used to transform 
